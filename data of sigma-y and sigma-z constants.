@@ -1,0 +1,28 @@
+
+sigma-y values table taken from page-642 of introduction to nuclear engineering book. A, B, C, D, E and F are the wind speed kinds
+which i mapped it inside the code as 1, 5, 12, 20, 35, and 50. Turn it into 7x6 matrix. distance to wind speed
+mesafe, A, B, C, D, E, F
+1000, 200, 160, 110, 72, 55, 40
+2000, 400, 300, 200, 140, 100, 70
+5000, 820, 510, 380, 300, 230, 160
+10000, 1600, 1200, 850, 550, 400, 290
+20000, 2800, 2100, 1600, 1000, 820, 500
+50000, 5900, 4600, 3400, 3200, 1600, 1100
+100000, 10000, 8100, 6100, 3900, 2800, 2000
+
+sigma-z values table taken from page-643 of introduction to nuclear engineering book. A, B, C, D, E and F are the wind speed kinds
+which i mapped it inside the code as 1, 5, 12, 20, 35, and 50. Turn it into 7x6 matrix. d,stance to wind speed
+
+mesafe, A, B, C, D, E, F
+1000, 500, 130, 70, 35, 25, 15
+2000, 3500, 350, 125, 50, 40, 30
+5000, 14000, 2000, 265, 90, 65, 38
+10000, 240000, 10000, 400, 150, 85, 50
+20000, 5250000,28000 , 700, 200, 110, 60
+50000, 10000000, 60000, 1400, 320, 160, 82
+100000, 20000000, 120000, 2000, 440, 190, 90
+
+
+
+
+
